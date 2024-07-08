@@ -4,7 +4,7 @@
 # Summer Internship 2024
 
 ## Introduction
-This repository documents my experiences, learning, and projects during my summer internship as a Software Devloper, starting from 13th May, 2024, and concluding on 21th June, 2024.
+This repository documents shows my experiences, learning, and projects during my summer internship as a Software Devloper, starting from 13th May, 2024, and concluding on 21th June, 2024.
 
 ## Internship Overview
 My summer internship at NAVPAD Infotech began on 13th May, 2024, and will conclude on 21th June, 2024. As a Software Devloper, I am responsible for working with frontend designing, implementing user interface, testing module and debugging method to alter the running test software module also design database and complete process of software requirements gathering techniques and analysis in test system
